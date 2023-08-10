@@ -1,7 +1,7 @@
 
 ### Kroit  
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="http://f6a.cn/DCMjT" align="center" style="width: 100%" />
 </div>  
   
 

@@ -1,9 +1,5 @@
 
 ### Kroit  
-<div align="center">
-<img src="http://f6a.cn/DCMjT" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">I'm Kroit, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
   

@@ -1,7 +1,7 @@
 
-### TCB  
+### Kroit  
 
-### <div align="center">I'm TCB, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Kroit, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
 - 🔭 I’m currently working on [Leinao Hefei](http://www.leinao.ai/)  

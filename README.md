@@ -1,7 +1,7 @@
 
-### Kroit  
+### TCB  
 
-### <div align="center">I'm Kroit, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm TCB, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
 - 🔭 I’m currently working on [Leinao Hefei](http://www.leinao.ai/)  
@@ -94,15 +94,12 @@
 
 
 ## Github Stats  
-
-
-### Kroit  
+ 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 
- 
 <br/>  
 
 <div align="left">
